@@ -1,0 +1,12 @@
+{
+  "name": "voice-model-trainer",
+  "version": "1.0.0",
+  "description": "A desktop application to train voice models",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
